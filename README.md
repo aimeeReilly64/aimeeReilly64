@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @aimeeReilly64
-- 👀 I’m interested in ...programming
-- 🌱 I’m currently learning .. java + c# + python AI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... aimee.reilly64@gmail.com
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...
+👋 Hey there! I'm Aimee Reilly
+I'm a Computer Programming and Data Analysis student at Canadore College, graduating in April 2025. I specialize in database management, software development, and data analytics, with a passion for crafting efficient and scalable solutions.
 
-<!---
-aimeeReilly64/aimeeReilly64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I Do:
+Database Development & Management: Working with MySQL, MongoDB, and SQL to design, optimize, and query databases.
+Software Development: Proficient in Python, Java, C#, JavaScript, PHP, Ruby, and C++, with experience in full-stack development.
+Data Processing & Reporting: Handling ETL workflows, data transformations, and analytics for insights.
+Web Development: Building websites and web applications with HTML, CSS, JavaScript, and backend integration.
+Version Control & Deployment: Using Git and GitHub for collaborative development and code management.
+📌 Current Projects:
+Tangled Oak + Craft Collective: Developing a custom e-commerce platform with a database-driven inventory and vendor management system.
+Embroidery & Leatherwork: Creating a collection featuring corner bookmarks, keychains, wallets, and coin pouches.
+🎨 Creative Side:
+Beyond coding, I enjoy embroidery and leather crafting, combining technology and traditional craftsmanship to create unique, handmade pieces.
